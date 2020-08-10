@@ -1,5 +1,8 @@
 # Create-React-App with Parcel Template
 
+<p align="center">
+<img src="images/logo.png" alt="Logo" width="80" height="80">
+</p>
 This is a template that is meant to help React devs setup a project very fast with minimal configurations.
 
 ## Installation
@@ -20,9 +23,9 @@ To use the template you can clone the repo
 
 The template comes easy to use and configured with
 
-* ESlint
-* Prettier
-* Jest
+* [ESlint](https://eslint.org/)
+* [Prettier](https://prettier.io/)
+* [Jest](https://jestjs.io/)
 
 ## Contributing
 
